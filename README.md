@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World! 👋
+
+I’m currently working on a :artificial_satellite: called [Chandra](https://chandra.harvard.edu/).  I get to create tools that help people work with this space telescope; it's pretty awesome.
+
+Learn more about some of my past projects on my [portfolio page](https://jskrist.github.io/)
 
 <!--
 **jskrist/jskrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
